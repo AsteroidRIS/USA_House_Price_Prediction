@@ -1,0 +1,1 @@
+Data can be downloaded from https://www.kaggle.com/datasets/ahmeAdshahriarsakib/usa-real-estate-dataset?resource=download
